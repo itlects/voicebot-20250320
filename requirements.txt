@@ -7,7 +7,6 @@ arrow==1.3.0
 asttokens==3.0.0
 async-lru==2.0.5
 attrs==25.3.0
-AudioRecorder==0.1
 babel==2.17.0
 beautifulsoup4==4.13.3
 bleach==6.2.0
@@ -93,6 +92,7 @@ pycparser==2.22
 pydantic==2.10.6
 pydantic_core==2.27.2
 pydeck==0.9.1
+pydub==0.25.1
 Pygments==2.19.1
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
@@ -116,6 +116,7 @@ sniffio==1.3.1
 soupsieve==2.5
 stack_data==0.6.3
 streamlit==1.43.2
+streamlit-audiorecorder==0.0.6
 tenacity==9.0.0
 terminado==0.18.1
 tinycss2==1.4.0
